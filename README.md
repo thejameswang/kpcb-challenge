@@ -1,4 +1,4 @@
-# This is a basic version of blackjack from my understanding of the game.
+# Basic Blackjack
 
 ## To run:
 
